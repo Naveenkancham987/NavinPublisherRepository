@@ -1,0 +1,15 @@
+{
+    "customerNumber": "C1234567",
+    "firstName": "Ashokpitla3",
+    "lastName": "kanchamAshok",
+    "country": "India",
+    "countryCode": "IN",
+    "mobileNumber": "9849557654",
+    "email": "navin27@gmail.com",
+    "customerStatus": "close",
+    "birthdate": "05-05-1987",
+    "address": {
+        "addressLine1": "hill street",
+        "postalCode": "50410"
+    }
+}
